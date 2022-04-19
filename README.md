@@ -11,6 +11,7 @@
 class User < ActiveRecord::Base
     def contact
       %w[ 
+          https://milenaviera-portfolio.vercel.app/
           https://www.linkedin.com/in/milena-viera/
           milenajohanna1@gmail.com
        ]
